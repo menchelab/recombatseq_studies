@@ -1,5 +1,5 @@
 # reComBat-seq Studies
-Summary of the pipelines and experiments associated with `reComBat-seq`
+Summary of the pipelines and experiments associated with [`reComBat-seq`](https://github.com/menchelab/reComBat-seq)
 
 ## File descriptions
 
