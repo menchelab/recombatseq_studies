@@ -24,7 +24,7 @@ Summary of the pipelines and experiments associated with `reComBat-seq`
     + Saves raw counts, normalized counts (voom/TMM), confounded covariate matrices and corrected count matrices as CSV files.
 + **sample_study_step2.ipynb**
     + Applies `reComBat` for batch correction on the simulated data from the previous step, using the transformed normalized counts instead of the raw matrix.
-+ **results_pipeline_step3.R**
++ **sample_study_step3.R**
     + Runs DE analysis on the `reComBat` (limma) corrected data.
  
 #### Batch Count Study
